@@ -1,5 +1,5 @@
 {
-  "name": "RESTFULAPI-TESTING",
+  "name": "RESTFULAPI-TESTING-AUTH",
   "version": "1.0.0",
   "description": "Test Routes and Authorization Using Postman",
   "main": "index.js",

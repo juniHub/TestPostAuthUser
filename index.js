@@ -7,7 +7,7 @@ import routes from './src/routes/projectRoute.js';
 const app = express();
 const PORT = 3000;
 
-// mongoose connection
+// mongoose connection for testing
 mongoose.set('strictQuery', true)
 mongoose.connect('mongodb+srv://juninguyen:mongoDB@cluster0.wpttaf0.mongodb.net/?retryWrites=true&w=majority')
 
